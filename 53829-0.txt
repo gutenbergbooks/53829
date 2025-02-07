@@ -1,95 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-  <head>  <link rel="coverpage" href="images/cover.jpg" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<title>
-  The Project Gutenberg eBook of Ingersoll Lectures On Immortality, by Clifford Herschel Moore.
-</title>
-<style type="text/css">
- p {margin-top:.2em;text-align:justify;margin-bottom:.2em;text-indent:4%;}
-
-.c {text-align:center;text-indent:0%;}
-
-.cb {text-align:center;text-indent:0%;font-weight:bold;}
-
-.eng  {font-family: "Old English Text MT",fantasy,sans-serif;}
-
-.letra {font-size:350%;float:left;margin-top:-1%;}
- @media print, handheld
- { .letra
- {font-size:150%;}
- }
-
-.nind {text-indent:0%;}
-
-.rt {text-align:right;}
-
-small {font-size: 70%;}
-
-big {font-size: 130%;}
-
- h1 {margin-top:5%;text-align:center;clear:both;}
-
- h2 {margin-top:2em;margin-bottom:1em;text-align:center;clear:both;
- font-size:120%;}
-
- hr {width:10%;margin:1em auto 1em auto;clear:both;color:black;}
-
- hr.full {width: 60%;margin:2% auto 2% auto;border-top:1px solid black;
-padding:.1em;border-bottom:1px solid black;border-left:none;border-right:none;}
-
- table {margin-top:2%;margin-bottom:2%;margin-left:auto;margin-right:auto;border:none;}
-
- body{margin-left:4%;margin-right:6%;background:#ffffff;color:black;font-family:"Times New Roman", serif;font-size:medium;}
-
-a:link {background-color:#ffffff;color:blue;text-decoration:none;}
-
-  link {background-color:#ffffff;color:blue;text-decoration:none;}
-
-a:visited {background-color:#ffffff;color:purple;text-decoration:none;}
-
-a:hover {background-color:#ffffff;color:#FF0000;text-decoration:underline;}
-
-.smcap  {font-variant:small-caps;font-size:100%;}
-
- img {border:none;}
-
-.figcenter   {margin-top:3%;margin-bottom:3%;clear:both;
-margin-left:auto;margin-right:auto;text-align:center;text-indent:0%;}
- @media print, handheld
- {.figcenter
- {page-break-before: avoid;}
- }
-
-.ntanc   {vertical-align:30%;font-size:.8em;}
-
-div.poetry {text-align:center;}
-div.poem {font-size:90%;margin:auto auto;text-indent:0%;
-display: inline-block; text-align: left;}
-.poem .stanza     {margin-top: 1em;margin-bottom:1em;}
-.poem span.i0     {display: block; margin-left: 0em; padding-left: 3em; text-indent: -3em;}
-.poem span.i1     {display: block; margin-left: .45em; padding-left: 3em; text-indent: -3em;}
-
-.pagenum  {font-style:normal;position:absolute;
-left:95%;font-size:55%;text-align:right;color:gray;
-background-color:#ffffff;font-variant:normal;font-style:normal;font-weight:normal;text-decoration:none;text-indent:0em;}
-@media print, handheld
-{.pagenum
- {display: none;}
- }
-
-.bbox {border:2px solid black;margin:auto auto 2em auto;max-width:20em;padding:.5em;}
-.blockquot p{margin-left:2em;text-indent:-1em;}
-</style>
-  </head>
-<body>
-
-
-<pre>
-
-The Project Gutenberg EBook of Pagan Ideas of Immortality During the Early
+﻿The Project Gutenberg EBook of Pagan Ideas of Immortality During the Early
 Roman Empire, by Clifford Herschel Moore
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -123,120 +32,104 @@ by The Internet Archive)
 
 
 
-</pre>
 
-<hr class="full" />
 
-<div class="figcenter">
-<img src="images/cover.jpg" width="311" height="500" alt="" title="" />
-</div>
 
-<div class="bbox">
 
-<p class="c"><span class="eng">Ingersoll Lectures on Immortality</span></p>
 
-<p class="c">&mdash;&mdash;&mdash;</p>
-<div class="blockquot"><p><span class="smcap">Immortality and the New Theodicy.</span> By George A. Gordon. 1896.</p>
 
-<p><span class="smcap">Human Immortality.</span> Two supposed Objections to the Doctrine. By
-William James. 1897.</p>
+                   Ingersoll Lectures on Immortality
 
-<p><span class="smcap">Dionysos and Immortality</span>: The Greek Faith in Immortality as
-affected by the rise of Individualism. By Benjamin Ide Wheeler.
-1898.</p>
 
-<p><span class="smcap">The Conception of Immortality.</span> By Josiah Royce. 1899.</p>
+     IMMORTALITY AND THE NEW THEODICY. By George A. Gordon. 1896.
 
-<p><span class="smcap">Life Everlasting.</span> By John Fiske. 1900.</p>
+     HUMAN IMMORTALITY. Two supposed Objections to the Doctrine. By
+     William James. 1897.
 
-<p><span class="smcap">Science and Immortality.</span> By William Osler. 1904.</p>
+     DIONYSOS AND IMMORTALITY: The Greek Faith in Immortality as
+     affected by the rise of Individualism. By Benjamin Ide Wheeler.
+     1898.
 
-<p><span class="smcap">The Endless Life.</span> By Samuel M. Crothers. 1905.</p>
+     THE CONCEPTION OF IMMORTALITY. By Josiah Royce. 1899.
 
-<p><span class="smcap">Individuality and Immortality.</span> By Wilhelm Ostwald. 1906.</p>
+     LIFE EVERLASTING. By John Fiske. 1900.
 
-<p><span class="smcap">The Hope of Immortality.</span> By Charles F. Dole. 1907.</p>
+     SCIENCE AND IMMORTALITY. By William Osler. 1904.
 
-<p><span class="smcap">Buddhism and Immortality.</span> By William S. Bigelow. 1908.</p>
+     THE ENDLESS LIFE. By Samuel M. Crothers. 1905.
 
-<p><span class="smcap">Is Immortality Desirable?</span> By G. Lowes Dickinson. 1909.</p>
+     INDIVIDUALITY AND IMMORTALITY. By Wilhelm Ostwald. 1906.
 
-<p><span class="smcap">Egyptian Conceptions of Immortality.</span> By George A. Reisner. 1911.</p>
+     THE HOPE OF IMMORTALITY. By Charles F. Dole. 1907.
 
-<p><span class="smcap">Intimations of Immortality in the Sonnets of Shakespeare.</span> By George
-H. Palmer. 1912.</p>
+     BUDDHISM AND IMMORTALITY. By William S. Bigelow. 1908.
 
-<p><span class="smcap">Metempsychosis.</span> By George Foot Moore. 1914.</p>
+     IS IMMORTALITY DESIRABLE? By G. Lowes Dickinson. 1909.
 
-<p><span class="smcap">Pagan Ideas of Immortality During the Early Roman Empire.</span> By
-Clifford Herschel Moore. 1918.</p></div>
+     EGYPTIAN CONCEPTIONS OF IMMORTALITY. By George A. Reisner. 1911.
 
-</div>
+     INTIMATIONS OF IMMORTALITY IN THE SONNETS OF SHAKESPEARE. By George
+     H. Palmer. 1912.
 
-<p class="c">
-PAGAN IDEAS OF<br />
+     METEMPSYCHOSIS. By George Foot Moore. 1914.
 
-IMMORTALITY DURING THE<br />
+     PAGAN IDEAS OF IMMORTALITY DURING THE EARLY ROMAN EMPIRE. By
+     Clifford Herschel Moore. 1918.
 
-EARLY ROMAN EMPIRE<br />
-<br /><br /><br /><br /><span class="eng"><big>The Ingersoll Lecture, 1918</big></span></p>
 
-<h1>
-Pagan Ideas of<br />
 
-Immortality During the<br />
 
-Early Roman Empire</h1>
+                            PAGAN IDEAS OF
 
-<p class="c">
-By<br />
-<br />
-Clifford Herschel Moore, Ph.D., Litt.D.<br />
+                        IMMORTALITY DURING THE
 
-<i>Professor of Latin in Harvard University</i><br />
-<br />
-<img src="images/colophon.png" width="80" alt="colophon" title="" />
-<br />
-<br />
-Cambridge<br />
-Harvard University Press<br />
-London: Humphrey Milford<br />
-Oxford University Press<br />
-<br />
-1918<br />
-<br />
-COPYRIGHT, 1918<br />
-HARVARD UNIVERSITY PRESS<br />
-</p>
+                          EARLY ROMAN EMPIRE
 
-<p>&nbsp;</p>
 
-<p class="cb">THE INGERSOLL LECTURESHIP</p>
 
-<table border="0" cellpadding="0" cellspacing="0" summary=""
-style="border: 2px black solid;margin:2em auto 2em auto;max-width:25%;
-padding:1%;">
-<tr><td>
-<p class="c">
-<a href="#I">I </a>,
-<a href="#II">II </a>,
-<a href="#III">III </a>,
-<a href="#IV">IV</a>.<br />
-<a href="#NOTES">NOTES</a><br />
-</p>
-</td></tr>
-</table>
 
-<p class="cb"><i>Extract from the will of Miss Caroline Haskell Ingersoll, who died in
-Keene, County of Cheshire, New Hampshire, Jan. 26, 1893</i></p>
+                      The Ingersoll Lecture, 1918
 
-<p><i>First.</i> In carrying out the wishes of my late beloved father, George
+                            Pagan Ideas of
+
+                        Immortality During the
+
+                          Early Roman Empire
+
+                                  By
+
+                Clifford Herschel Moore, Ph.D., Litt.D.
+
+              _Professor of Latin in Harvard University_
+
+                       [Illustration: colophon]
+
+                               Cambridge
+                       Harvard University Press
+                       London: Humphrey Milford
+                        Oxford University Press
+
+                                 1918
+
+                            COPYRIGHT, 1918
+                       HARVARD UNIVERSITY PRESS
+
+
+
+
+                       THE INGERSOLL LECTURESHIP
+
+_Extract from the will of Miss Caroline Haskell Ingersoll, who died in
+       Keene, County of Cheshire, New Hampshire, Jan. 26, 1893_
+
+
+_First._ In carrying out the wishes of my late beloved father, George
 Goldthwait Ingersoll, as declared by him in his last will and testament,
 I give and bequeath to Harvard University in Cambridge, Mass., where my
 late father was graduated, and which he always held in love and honor,
 the sum of Five thousand dollars ($5,000) as a fund for the
 establishment of a Lectureship on a plan somewhat similar to that of the
-Dudleian lecture, that is&mdash;one lecture to be delivered each year, on any
+Dudleian lecture, that is--one lecture to be delivered each year, on any
 convenient day between the last day of May and the first day of
 December, on this subject, “the Immortality of Man,” said lecture not to
 form a part of the usual college course, nor to be delivered by any
@@ -250,13 +143,20 @@ fourths of the annual interest thereof to be paid to the lecturer for
 his services and the remaining fourth to be expended in the publishment
 and gratuitous distribution of the lecture, a copy of which is always to
 be furnished by the lecturer for such purpose. The same lecture to be
-named and known as “the Ingersoll lecture on the Immortality of Man.”<span class="pagenum"><a name="page_1" id="page_1"></a>{1}</span></p>
+named and known as “the Ingersoll lecture on the Immortality of Man.”
 
-<h1>PAGAN IDEAS OF IMMORTALITY DURING THE EARLY ROMAN EMPIRE</h1>
 
-<h2><a name="I" id="I"></a>I</h2>
 
-<p class="nind"><span class="letra">T</span>HE invitation of the committee charged with the administration of the
+
+PAGAN IDEAS OF IMMORTALITY DURING THE EARLY ROMAN EMPIRE
+
+
+
+
+I
+
+
+The invitation of the committee charged with the administration of the
 Ingersoll lectureship and my own inclination have agreed in indicating
 that aspect of the general subject of immortality, which I shall try to
 present tonight. I shall not venture on this occasion to advance
@@ -264,21 +164,21 @@ arguments for or against belief in a life after death; my present task
 is a humbler one: I propose to ask you to review with me some of the
 more significant ideas concerning an existence beyond the grave, which
 were current in the Greco-Roman world in the time of Jesus and during
-the earlier Christian centuries, and to consider<span class="pagenum"><a name="page_2" id="page_2"></a>{2}</span> briefly the relation
+the earlier Christian centuries, and to consider briefly the relation
 of these pagan beliefs to Christian ideas on the same subject. In
 dealing with a topic so vast as this in a single hour, we must select
 those elements which historically showed themselves to be fundamental
 and vital; but even then we cannot examine much detail. It may prove,
 however, that a rapid survey of those concepts of the future life, whose
 influence lasted long during the Christian centuries, and indeed has
-continued to the present day, may not be without profit.</p>
+continued to the present day, may not be without profit.
 
-<p>The most important single religious document from the Augustan Age is
+The most important single religious document from the Augustan Age is
 the sixth book of Virgil’s Aeneid; for although the Aeneid was written
 primarily to glorify Roman imperial aims, the sixth book gives full
 expression to many philosophic and popular ideas of the other world and
-of the future life, which were current among both Greeks and Romans.<span class="ntanc"><a name="anc_1" id="anc_1"></a><a href="#note_1">[1]</a></span>
-It therefore makes a fitting point of departure<span class="pagenum"><a name="page_3" id="page_3"></a>{3}</span> for our considerations.
+of the future life, which were current among both Greeks and Romans.[1]
+It therefore makes a fitting point of departure for our considerations.
 In this book, as you will remember, the poet’s hero, having reached
 Italian soil at last, is led down to the lower world by the Cumaean
 Sybil. This descent to Hades belongs historically to that long series of
@@ -291,55 +191,51 @@ accomplishment of his divine mission.” When the Trojan hero has learned
 from his father’s shade the mysteries of life and death, and has been
 taught the magnitude of the work which lies before him, and the great
 things that are to be, he casts off the timidity which he has hitherto
-shown and, strengthened<span class="pagenum"><a name="page_4" id="page_4"></a>{4}</span> by his experiences, advances to the perfect
-accomplishment of his task.<span class="ntanc"><a name="anc_2" id="anc_2"></a><a href="#note_2">[2]</a></span></p>
+shown and, strengthened by his experiences, advances to the perfect
+accomplishment of his task.[2]
 
-<p>But we are not concerned so much with Virgil’s purpose in writing this
+But we are not concerned so much with Virgil’s purpose in writing this
 apocalyptic book, as with its contents and with the evidence it gives as
 to the current ideas of the other world and the fate of the human soul.
 What then does the poet tell us of these great matters? We can hardly do
 better than to follow Aeneas and his guide on their journey. This side
 of Acheron they meet the souls of those whose bodies are unburied, and
-who therefore must tarry a hundred years&mdash;the maximum of human
-life&mdash;before they may be ferried over the river which bounds Hades. When
+who therefore must tarry a hundred years--the maximum of human
+life--before they may be ferried over the river which bounds Hades. When
 Charon has set the earthly visitors across that stream, they find
 themselves in a place where are gathered spirits of many kinds, who have
 not yet been admitted to Tartarus or Elysium: first the souls of infants
-and those who met their end by violence&mdash;<span class="pagenum"><a name="page_5" id="page_5"></a>{5}</span>men condemned to death though
-innocent, suicides, those who died for love, and warriors&mdash;all of whom
+and those who met their end by violence--men condemned to death though
+innocent, suicides, those who died for love, and warriors--all of whom
 must here wait until the span of life allotted them has been completed.
 These spirits passed, the mortal visitors come to the walls of Tartarus,
-on whose torments Aeneas is not allowed to look, for</p>
+on whose torments Aeneas is not allowed to look, for
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“The feet of innocence may never pass<br /></span>
-<span class="i1">Into this house of sin.”<br /></span>
-</div></div>
-</div>
+    “The feet of innocence may never pass
+    Into this house of sin.”
 
-<p class="nind">But the Sybil, herself taught by Hecate, reveals to him the eternal
+But the Sybil, herself taught by Hecate, reveals to him the eternal
 punishments there inflicted for monstrous crimes. Then the visitors pass
 to Elysium, where dwell the souls of those whose deserts on earth have
 won for them a happy lot. Nearby in a green valley, Aeneas finds the
-shade of his own father, Anchises, looking eagerly at the souls which
-are waiting to be born into the upper world. In answer to his son’s
-questions, the heroic shade discloses the doctrine of
-rebirths&mdash;metempsychosis&mdash;with its<span class="pagenum"><a name="page_6" id="page_6"></a>{6}</span> tenets of penance and of
-purification.<span class="ntanc"><a name="anc_3" id="anc_3"></a><a href="#note_3">[3]</a></span> Finally, to fulfill the poet’s purpose, Anchises’
+shade of his own father, Anchises, looking eagerly at the souls
+which are waiting to be born into the upper world. In answer to
+his son’s questions, the heroic shade discloses the doctrine of
+rebirths--metempsychosis--with its tenets of penance and of
+purification.[3] Finally, to fulfill the poet’s purpose, Anchises’
 spirit points out the souls of the heroes who are to come on earth in
 due season; the spirits of future Romans pass before Aeneas in long
 array; and at the climax he sees the soul of Augustus, that prince who
 was destined in the fullness of time to bring back the Golden Age and to
 impose peace on the wide world. This prophetic revelation ended, Aeneas
-enlightened and strengthened for his task, returns to the upper world.</p>
+enlightened and strengthened for his task, returns to the upper world.
 
-<p>This book seems at first a strange compound indeed of popular belief,
+This book seems at first a strange compound indeed of popular belief,
 philosophy, and theology, which is not without its contradictions. On
 these, however, we need not pause; but for our present interest we must
 ask what are the main ideas on which this apocalypse is based. First of
 all, a future life is taken for granted by the poet; otherwise the book
-could never have been written. Secondly,<span class="pagenum"><a name="page_7" id="page_7"></a>{7}</span> we notice that, according to
+could never have been written. Secondly, we notice that, according to
 ancient popular belief, the souls of those who had not received the
 proper burial rites, were doomed to wander on this side of Acheron until
 a hundred years were completed, and also that souls which were
@@ -352,48 +248,48 @@ majority of souls must pass through successive lives and deaths, until,
 purified from the sin and dross of the body by millennial sojourns in
 the world below, and by virtuous lives on earth, they at last find
 repose and satisfaction. The popular beliefs which concern details of
-the future life we shall leave one side for the moment; let us<span class="pagenum"><a name="page_8" id="page_8"></a>{8}</span> rather
+the future life we shall leave one side for the moment; let us rather
 first observe that Virgil’s ideas as to rewards and punishments in the
 next world, as well as his doctrine of successive rebirths and deaths
 with their accompanying purifications, rest on a moral basis, so that
 the other world is conceived to be a complement of this: life on earth
 and life below are opportunities for moral advance without which final
 happiness cannot be attained. Whence came these ideas of the future life
-and how far were they current in the ancient world of Virgil’s day?</p>
+and how far were they current in the ancient world of Virgil’s day?
 
-<p>Naturally it does not follow that, because Rome’s greatest poet chose to
+Naturally it does not follow that, because Rome’s greatest poet chose to
 picture souls surviving their corporeal homes, the average man believed
 in a future life, but there is abundant evidence that the poet was
-appealing to widespread beliefs, when he wrote his apocalyptic book.<span class="ntanc"><a name="anc_4" id="anc_4"></a><a href="#note_4">[4]</a></span>
+appealing to widespread beliefs, when he wrote his apocalyptic book.[4]
 In fact from the earliest times known to us, both Greeks and Romans held
-to a belief in some kind of<span class="pagenum"><a name="page_9" id="page_9"></a>{9}</span> extended life for souls after the death of
-the body.<span class="ntanc"><a name="anc_5" id="anc_5"></a><a href="#note_5">[5]</a></span> Both peoples had their cults of the dead, rites of tendance
+to a belief in some kind of extended life for souls after the death of
+the body.[5] Both peoples had their cults of the dead, rites of tendance
 and of riddance, festivals both public and private, which leave no doubt
 that the great majority of men never questioned that the spirits of the
 departed existed after this life, and that those spirits were endowed
-with power to harm or to bless the living.<span class="ntanc"><a name="anc_6" id="anc_6"></a><a href="#note_6">[6]</a></span> But beyond this rather
+with power to harm or to bless the living.[6] But beyond this rather
 elementary stage of belief the Romans never went of themselves. The
 Greeks, however, began early to develop eschatological ideas which had,
-and which still have, great importance.</p>
+and which still have, great importance.
 
-<p>The eleventh book of the Odyssey, as I have already said, is the oldest
+The eleventh book of the Odyssey, as I have already said, is the oldest
 “Descent to Hades” in European literature. The souls of the dead are
 there represented as dwelling in the land of shadows, having no life,
 but leading an insubstantial existence, without punishment or reward.
-Such a future world could have no moral<span class="pagenum"><a name="page_10" id="page_10"></a>{10}</span> or other value; it could only
+Such a future world could have no moral or other value; it could only
 hang over men as a gloomy prospect of that which awaited them when the
 suns of this world had forever set. But in the seventh and sixth
-centuries <small>B.C.</small> other ideas came to the front, which were influential
+centuries B.C. other ideas came to the front, which were influential
 throughout later history. In those two centuries fall the first period
-of Greek individualism and a religious revival&mdash;two things not wholly
+of Greek individualism and a religious revival--two things not wholly
 disconnected. The Orphic sect, which appeared in the sixth century, was
 made up of religious devotees who adopted a purified form of the
-religion of Dionysus.<span class="ntanc"><a name="anc_7" id="anc_7"></a><a href="#note_7">[7]</a></span> The center of the Orphic faith and mystic
+religion of Dionysus.[7] The center of the Orphic faith and mystic
 ceremonial was the myth of the birth, destruction, and rebirth of the
 god. According to the story, Dionysus was pursued by the Titans, powers
 hostile to Zeus. In his distress the god changed himself into various
 creatures, finally taking on the form of a bull, which the Titans tore
-in pieces and devoured. But the goddess Athena saved<span class="pagenum"><a name="page_11" id="page_11"></a>{11}</span> the heart and gave
+in pieces and devoured. But the goddess Athena saved the heart and gave
 it to Zeus who swallowed it. Hence sprang the new Dionysus. The Titans
 Zeus destroyed with his thunderbolt and had the ashes scattered to the
 winds. From these ashes, in one form of the myth, man was made, and
@@ -401,33 +297,33 @@ therefore he was thought to unite in his person the sinful Titanic
 nature and the divine Dionysiac spark. The parallelism between this
 story and the myths of Osiris, Attis, and Adonis is at once evident.
 They are all gods who die and live again, and thus become lords of death
-and life, through whom man gains assurance of his own immortality.</p>
+and life, through whom man gains assurance of his own immortality.
 
-<p>Our chief concern with the Orphics here is that they seem to have
+Our chief concern with the Orphics here is that they seem to have
 introduced among the Greeks the idea that the soul of man was divine,
 was a [Greek: daimôn] which had fallen, and for its punishment was
 imprisoned in the body as in a tomb. In its corporeal cell it was
-condemned to suffer defilement until released by death,<span class="pagenum"><a name="page_12" id="page_12"></a>{12}</span> when it passed
+condemned to suffer defilement until released by death, when it passed
 to Hades. Its lot there depended on its life on earth. As an Orphic
 fragment says: “They who are righteous beneath the rays of the sun, when
 they die, have a gentler lot in a fair meadow by deep flowing
 Acheron.... But they who have worked wrong and insolence under the rays
 of the sun are led down beneath Cocytus’s watery plain into chill
-Tartarus.”<span class="ntanc"><a name="anc_8" id="anc_8"></a><a href="#note_8">[8]</a></span> The soul’s sojourn in Hades therefore was a time of
+Tartarus.”[8] The soul’s sojourn in Hades therefore was a time of
 punishment and of purification, even as life itself was a penance for
 sin. According to a common belief, at least in Plato’s day, after a
 thousand years the soul entered a new incarnation, and so on through ten
 rounds of earth and Hades, until at last, freed from sin and earthly
 dross by faithful observance of a holy life on earth and by the
 purification which it underwent below, it returned to its divine abode;
-but those who persisted in sin were condemned to all the<span class="pagenum"><a name="page_13" id="page_13"></a>{13}</span> punishments
+but those who persisted in sin were condemned to all the punishments
 which man’s imagination could devise; the wicked were doomed to lie in
 mud and filth, while evil demons rent their vitals. Indeed the horrors
 which the medieval Christian loved to depict in order to terrify the
 wicked and to rejoice the faithful, were first devised by the Orphics
-and their heirs, for exactly the same purpose.</p>
+and their heirs, for exactly the same purpose.
 
-<p>But what bases did the Orphics find for their belief in the divine
+But what bases did the Orphics find for their belief in the divine
 nature of the soul? In their mythology they had said that man was
 created out of the ashes of the Titans in which a spark of Dionysus
 still remained. But in fact they seem to have rested on faith or
@@ -435,7 +331,7 @@ intuition, without working out clearly a philosophic answer. They were
 indeed deeply conscious of man’s dual nature; they perceived that on the
 one hand he is pulled by his baser instincts and desires, which they
 naturally attributed to the body, and that on the other hand he is
-prompted by nobler<span class="pagenum"><a name="page_14" id="page_14"></a>{14}</span> aspirations, which they assigned to his soul. This
+prompted by nobler aspirations, which they assigned to his soul. This
 higher part of man’s dual self was, for them, the Dionysiac element in
 him. And man’s moral obligation they held to be to free this divine
 element from the clogging weight of the body, to cease to “blind his
@@ -446,10 +342,10 @@ divine, it may naturally be regarded as eternally so, and therefore as
 immortal. What more momentous thoughts as to the soul’s nature and its
 destiny could any sect have introduced than these? They were shared by
 their contemporaries, the Pythagoreans; in fact it is hard to say with
-certainty which sect developed these concepts first.<span class="ntanc"><a name="anc_9" id="anc_9"></a><a href="#note_9">[9]</a></span></p>
+certainty which sect developed these concepts first.[9]
 
-<p>But the Orphic-Pythagorean confidence in the immortality of the soul
-was<span class="pagenum"><a name="page_15" id="page_15"></a>{15}</span> at the most only an emotional belief. It remained for Plato in the
+But the Orphic-Pythagorean confidence in the immortality of the soul
+was at the most only an emotional belief. It remained for Plato in the
 early fourth century to give that belief a philosophic basis and thereby
 to transform it into a reasonable article of religion. This he
 fundamentally did, when he brought his concept of the reasoning soul
@@ -460,43 +356,43 @@ and real, which can be grasped by the reason only. These permanent
 ideas, he said, are of various grades and degrees, the supreme idea
 being that of the Good and the Beautiful, which is the cause of all
 existence, truth, and knowledge; it at once comprehends these things
-within itself and is superior to them; it is the Absolute, God.<span class="ntanc"><a name="anc_10" id="anc_10"></a><a href="#note_10">[10]</a></span></p>
+within itself and is superior to them; it is the Absolute, God.[10]
 
-<p>But all the ideas, including the Absolute, are, as I have just said,
-apprehended<span class="pagenum"><a name="page_16" id="page_16"></a>{16}</span> not by man’s senses but by his intellect. Therefore, argues
+But all the ideas, including the Absolute, are, as I have just said,
+apprehended not by man’s senses but by his intellect. Therefore, argues
 Plato, man’s reasoning soul must have the same nature as the ideas; like
 them, it must belong to the world above the senses and with them it must
 partake of the Absolute. Moreover, since the ideas are eternal and
 immortal, it inevitably follows that man’s reasoning soul has existed
-from eternity and will exist forever.<span class="ntanc"><a name="anc_11" id="anc_11"></a><a href="#note_11">[11]</a></span></p>
+from eternity and will exist forever.[11]
 
-<p>This is not the occasion to discuss the validity of Plato’s doctrine.
+This is not the occasion to discuss the validity of Plato’s doctrine.
 Aristotle stated, once for all, the fundamental objections to his
-teacher’s views.<span class="ntanc"><a name="anc_12" id="anc_12"></a><a href="#note_12">[12]</a></span> But we shall readily grant that, if we accept
+teacher’s views.[12] But we shall readily grant that, if we accept
 Plato’s doctrine, his conclusions as to the immortality of the soul may
 logically follow and that no further evidence is needed to convince us.
 Yet Plato was not content to let the matter rest on this single
 argument, for in other dialogues he adduces proofs which do not seem so
-convincing to us as to their author. He<span class="pagenum"><a name="page_17" id="page_17"></a>{17}</span> attempts to prove immortality
+convincing to us as to their author. He attempts to prove immortality
 from the self-motion of the soul, again from the dim recollections out
 of an earlier existence which enable one to recall axiomatic truths or
-to recognize relations, as in mathematics&mdash;things which one has never
+to recognize relations, as in mathematics--things which one has never
 learned in this present life. On another occasion he argues from the
 unchanging nature of the soul and from the soul’s superiority to the
 body. But he seems to have thought the most convincing proof was the
 fact that the notion of life is inseparable from our concept of the
 soul; that is, a dead soul is unthinkable. For all these reasons,
-therefore, he argued that the soul must be immortal.<span class="ntanc"><a name="anc_13" id="anc_13"></a><a href="#note_13">[13]</a></span></p>
+therefore, he argued that the soul must be immortal.[13]
 
-<p>Whatever we may think of Plato’s different proofs, they have furnished
+Whatever we may think of Plato’s different proofs, they have furnished
 the armories of apologists almost down to our own day. In antiquity they
 were constantly repeated, in whole or in part, not only by devoted
-members of the Academy and later by the Neoplatonists,<span class="pagenum"><a name="page_18" id="page_18"></a>{18}</span> but by the
+members of the Academy and later by the Neoplatonists, but by the
 Eclectics and others, like Cicero in the first book of his Tusculan
 Disputations, and at the close of Scipio’s Dream; they were borrowed by
 the Stoics, and some eight hundred years after Plato had first
-formulated them, they were employed by St. Augustine in his tract <i>De
-Immortalitate Animae</i>. The religious intuition of the Orphic and
+formulated them, they were employed by St. Augustine in his tract _De
+Immortalitate Animae_. The religious intuition of the Orphic and
 Pythagorean then was given a rational basis by Plato, and thus
 supported, proved so convincing to antiquity that Plato’s views were the
 most important of all in supporting belief in the soul’s immortality.
@@ -504,9 +400,9 @@ They were in large measure taken up by the Christian church, and, as has
 been often shown, the doctrine of a spiritual immortality apart and free
 from the body, was of immense service to primitive Christianity, when
 the hope of the early return of Christ to found a new kingdom on earth
-faded before the lengthening years.<span class="pagenum"><a name="page_19" id="page_19"></a>{19}</span></p>
+faded before the lengthening years.
 
-<p>To Plato himself his belief in immortality was of the greatest moment,
+To Plato himself his belief in immortality was of the greatest moment,
 for the whole fabric of his ethical and political philosophy is built
 against the background of that doctrine. And indeed we should all grant
 much validity to the argument that the human reason, though weak and
@@ -518,11 +414,11 @@ convinced that the individual soul must therefore have a conscious and
 separate existence through all eternity; its identity may be lost by
 absorption into the universal reason, the supreme idea. This is a matter
 on which Plato nowhere delivers a clear opinion, but his thought is so
-plainly centered on the individual soul that we can hardly<span class="pagenum"><a name="page_20" id="page_20"></a>{20}</span> believe that
+plainly centered on the individual soul that we can hardly believe that
 it was possible for him to conceive of the soul’s personality ever being
-lost in the Absolute.</p>
+lost in the Absolute.
 
-<p>Although Plato and his greatest pupil, Aristotle, regarded man’s
+Although Plato and his greatest pupil, Aristotle, regarded man’s
 reasoning soul as spiritual, something distinct from matter, few ancient
 thinkers were able to rise to the concept of the immateriality of man’s
 reasoning nature. The Stoics, who in their eclectic system borrowed from
@@ -533,7 +429,7 @@ Aristotle, for they recognized in all things the existence of an active
 and a passive principle, and they said that by the action of the former
 on the latter, all phenomena were produced. The active principle they
 called reason, intelligence, the cause of all things. It was the
-world-reason which,<span class="pagenum"><a name="page_21" id="page_21"></a>{21}</span> according to their view, permeated every part of
+world-reason which, according to their view, permeated every part of
 the cosmos, causing and directing all things. To express their concept
 of its nature, they often named it Fire, the most powerful and active of
 the elements, or rather the primordial element; again they often called
@@ -541,33 +437,33 @@ it God, for they did not hesitate to speak of this immanent principle as
 a person. Furthermore, since man is a part of the cosmos, the
 world-reason expresses itself in him. Indeed man’s reason, the directing
 element of the human soul, is itself a part of the world-reason, or in
-Epictetus’ striking phrase, man is “a fragment of God.”<span class="ntanc"><a name="anc_14" id="anc_14"></a><a href="#note_14">[14]</a></span> At this
+Epictetus’ striking phrase, man is “a fragment of God.”[14] At this
 point the Stoic and the Platonist were in accord, although the paths of
 thought which they had travelled were very different. Yet the Stoic
 could not agree with the Platonist that the individual soul survived
 forever, since he held to a cyclical theory of the cosmos, according to
-which this present universe<span class="pagenum"><a name="page_22" id="page_22"></a>{22}</span> was temporal. It had been created by the
+which this present universe was temporal. It had been created by the
 eternal fire, by the world-reason, from itself, and it was destined in
 due season to sink back again into universal fire. Meantime, according
 to the views of most Stoics, the souls of the just would survive this
 body, ascending to the spheres above the world, where they would dwell
 until absorbed once more into the divine element from which they sprang.
 To the souls of the wicked only a short period at most of post-corporeal
-existence was granted&mdash;brevity of life or annihilation was their
-punishment.<span class="ntanc"><a name="anc_15" id="anc_15"></a><a href="#note_15">[15]</a></span></p>
+existence was granted--brevity of life or annihilation was their
+punishment.[15]
 
-<p>Strictly speaking, the prospect of the limited existence after death,
+Strictly speaking, the prospect of the limited existence after death,
 which the Stoics held out as virtue’s reward, should have had little
 value for the philosophic mind, especially as their philosophy offered
 no warrant that personality would survive at all. But it would seem that
 men at every period of human history have had immortal longings in them
-so<span class="pagenum"><a name="page_23" id="page_23"></a>{23}</span> strong that they have eagerly embraced the assurance of even a brief
+so strong that they have eagerly embraced the assurance of even a brief
 respite from annihilation; certain it is that to many Greeks and Romans
 the Stoic doctrine of a limited existence after death was a strong
 incentive to virtue and a consolation in the midst of this world’s
-trials.</p>
+trials.
 
-<p>But no doctrine of the post-corporeal existence of the soul has ever had
+But no doctrine of the post-corporeal existence of the soul has ever had
 the field entirely to itself. We know that in antiquity even the Stoic
 conception of the soul’s limited survival, to say nothing of Platonic
 beliefs in actual immortality, met with much opposition and denial among
@@ -576,7 +472,7 @@ atomistic materialism, would not allow that the soul had any existence
 apart from the body; on the contrary, they held that the soul came into
 being at the moment of conception, grew with the body, and, at the
 body’s death, was once more dissolved into the atoms from which it
-first<span class="pagenum"><a name="page_24" id="page_24"></a>{24}</span> was formed. Epicurean polemics were directed against both popular
+first was formed. Epicurean polemics were directed against both popular
 superstitions and Platonic metaphysics; the attacks had the advantage of
 offering rational, and for the day scientific, explanations of natural
 phenomena, which fed human curiosity as to the causes of things, and
@@ -589,136 +485,130 @@ centuries before our era. But the very fire and passion of Lucretius,
 its most gifted Latin exponent, give us the impression that after all
 most men were not moved to find the peace which the poet promised them,
 if they would but accept the doctrine of the soul’s dissolution at the
-moment of death.<span class="pagenum"><a name="page_25" id="page_25"></a>{25}</span></p>
+moment of death.
 
-<p>The Sceptics also, who claimed not an inconsiderable number of
+The Sceptics also, who claimed not an inconsiderable number of
 intellectuals, doubted the possibility of a future life, or found
 themselves unable to decide the matter at all. Like Tennyson’s Sage they
-would declare:</p>
+would declare:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Thou canst not prove that thou art body alone,<br /></span>
-<span class="i1">Nor canst thou prove that thou art spirit alone,<br /></span>
-<span class="i1">Nor canst thou prove that thou art both in one:<br /></span>
-<span class="i1">Thou canst not prove that thou art immortal, no,<br /></span>
-<span class="i1">Nor yet that thou art mortal.”<br /></span>
-</div></div>
-</div>
+    “Thou canst not prove that thou art body alone,
+    Nor canst thou prove that thou art spirit alone,
+    Nor canst thou prove that thou art both in one:
+    Thou canst not prove that thou art immortal, no,
+    Nor yet that thou art mortal.”
 
-<p class="nind">Indeed it is true that of all the philosophic sects at the beginning of
+Indeed it is true that of all the philosophic sects at the beginning of
 our era, only those which were imbued with Platonic and
 Orphic-Pythagorean ideas, had confidence in the soul’s immortality. The
 Stoic position we have already discussed. Some scholars, following
-Rohde,<span class="ntanc"><a name="anc_16" id="anc_16"></a><a href="#note_16">[16]</a></span> claim that there was little belief<span class="pagenum"><a name="page_26" id="page_26"></a>{26}</span> in any kind of a future
+Rohde,[16] claim that there was little belief in any kind of a future
 life among the educated classes at the time we are considering; this I
 hold to be an error, although it is certain that the Epicureans and
 Sceptics had a large following. In any case we need to remind ourselves
 that the intellectuals are always a small minority, whose views may not
-represent in any way popular beliefs.</p>
+represent in any way popular beliefs.
 
-<p>We are, however, not without evidence that there were doubters among the
+We are, however, not without evidence that there were doubters among the
 common people. Flippant epigrams and epitaphs show that men could at
 least assume a cynicism toward life and a light-heartedness toward death
 which equal Lucian’s. More than once we can read funerary inscriptions
 to this effect: “I was nothing, I am nothing. Do thou who art still
-alive, eat, drink, be merry, come.”<span class="ntanc"><a name="anc_17" id="anc_17"></a><a href="#note_17">[17]</a></span> Or sentiments like this: “Once I
+alive, eat, drink, be merry, come.”[17] Or sentiments like this: “Once I
 had no existence; now I have none. I am not aware of it. It does not
-concern me.”<span class="ntanc"><a name="anc_18" id="anc_18"></a><a href="#note_18">[18]</a></span> Again we find the denial: “In<span class="pagenum"><a name="page_27" id="page_27"></a>{27}</span> Hades there is no boat,
+concern me.”[18] Again we find the denial: “In Hades there is no boat,
 no Charon, no Aeacus who holds the keys, no Cerberus. All of us, whom
-death has taken away are rotten bones and ashes; nothing more.”<span class="ntanc"><a name="anc_19" id="anc_19"></a><a href="#note_19">[19]</a></span> The
+death has taken away are rotten bones and ashes; nothing more.”[19] The
 sentiments are perhaps as old as thinking man. They have at times
 touches of humor which call forth a smile, as in the anxious inquiries
 of Callimachus’ epigram: “Charidas, what is below?” “Deep darkness.”
 “But what of the paths upward?” “All a lie.” “And Pluto?” “Mere talk.”
-“Then we’re lost.”<span class="ntanc"><a name="anc_20" id="anc_20"></a><a href="#note_20">[20]</a></span></p>
+“Then we’re lost.”[20]
 
-<p>Such expressions, of course, must not be given too much weight in our
+Such expressions, of course, must not be given too much weight in our
 reckoning. The longing for annihilation, which appeals at times to most
 weary mortals, also led to dedications “to eternal rest” or “to eternal
-sleep.”<span class="ntanc"><a name="anc_21" id="anc_21"></a><a href="#note_21">[21]</a></span> But after all the number of such epitaphs is comparatively
+sleep.”[21] But after all the number of such epitaphs is comparatively
 small. In the nature of the case many funerary inscriptions give no
-testimony for or against a belief in<span class="pagenum"><a name="page_28" id="page_28"></a>{28}</span> immortality; but large numbers
-show confidence, or a hope, in a future life.</p>
+testimony for or against a belief in immortality; but large numbers
+show confidence, or a hope, in a future life.
 
-<h2><a name="II" id="II"></a>II</h2>
 
-<p>The time has now come for us to return from our rather long historical
+
+
+II
+
+
+The time has now come for us to return from our rather long historical
 survey to Virgil’s Apocalypse, and to listen to the words with which
-Anchises’ shade taught his eager son:</p>
+Anchises’ shade taught his eager son:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Know first that heaven and earth and ocean’s plain,<br /></span>
-<span class="i1">The moon’s bright orb, and stars of Titan birth<br /></span>
-<span class="i1">Are nourished by one Life; one primal Mind,<br /></span>
-<span class="i1">Immingled with the vast and general frame,<br /></span>
-<span class="i1">Fills every part and stirs the mighty whole.<br /></span>
-<span class="i1">Thence man and beast, thence creatures of the air,<br /></span>
-<span class="i1">And all the swarming monsters that be found<br /></span>
-<span class="i1">Beneath the level of the marbled sea;<br /></span>
-<span class="i1">A fiery virtue, a celestial power,<br /></span>
-<span class="i1">Their native seeds retain; but bodies vile,<br /></span>
-<span class="i1">With limbs of clay and members born to die,<br /></span>
-<span class="i1">Encumber and o’ercloud; whence also spring<br /></span>
-<span class="i1">Terrors and passions, suffering and joy;<span class="pagenum"><a name="page_29" id="page_29"></a>{29}</span><br /></span>
-<span class="i1">For from deep darkness and captivity<br /></span>
-<span class="i1">All gaze but blindly on the radiant world.<br /></span>
-<span class="i1">Nor when to life’s last beam they bid farewell<br /></span>
-<span class="i1">May sufferers cease from pain, nor quite be freed<br /></span>
-<span class="i1">From all their fleshly plagues; but by fixed law,<br /></span>
-<span class="i1">The strange, inveterate taint works deeply in.<br /></span>
-<span class="i1">For this, the chastisement of evils past<br /></span>
-<span class="i1">Is suffered here, and full requital paid.<br /></span>
-<span class="i1">Some hang on high, outstretched to viewless winds;<br /></span>
-<span class="i1">For some their sin’s contagion must be purged<br /></span>
-<span class="i1">In vast ablution of deep-rolling seas,<br /></span>
-<span class="i1">Or burned away in fire. Each man receives<br /></span>
-<span class="i1">His ghostly portion in the world of dark;<br /></span>
-<span class="i1">But thence to realms Elysian we go free,<br /></span>
-<span class="i1">Where for a few these seats of bliss abide,<br /></span>
-<span class="i1">Till time’s long lapse a perfect orb fulfills,<br /></span>
-<span class="i1">And takes all taint away, restoring so<br /></span>
-<span class="i1">The pure, ethereal soul’s first virgin fire.<br /></span>
-<span class="i1">At last, when the millennial aeon strikes,<br /></span>
-<span class="i1">God calls them forth to yon Lethaean stream,<br /></span>
-<span class="i1">In numerous host, that thence, oblivious all,<br /></span>
-<span class="i1">They may behold once more the vaulted sky,<br /></span>
-<span class="i1">And willingly to shapes of flesh return.”<span class="ntanc"><a name="anc_22" id="anc_22"></a><a href="#note_22">[22]</a></span><br /></span>
-</div></div>
-</div>
+    “Know first that heaven and earth and ocean’s plain,
+    The moon’s bright orb, and stars of Titan birth
+    Are nourished by one Life; one primal Mind,
+    Immingled with the vast and general frame,
+    Fills every part and stirs the mighty whole.
+    Thence man and beast, thence creatures of the air,
+    And all the swarming monsters that be found
+    Beneath the level of the marbled sea;
+    A fiery virtue, a celestial power,
+    Their native seeds retain; but bodies vile,
+    With limbs of clay and members born to die,
+    Encumber and o’ercloud; whence also spring
+    Terrors and passions, suffering and joy;
+    For from deep darkness and captivity
+    All gaze but blindly on the radiant world.
+    Nor when to life’s last beam they bid farewell
+    May sufferers cease from pain, nor quite be freed
+    From all their fleshly plagues; but by fixed law,
+    The strange, inveterate taint works deeply in.
+    For this, the chastisement of evils past
+    Is suffered here, and full requital paid.
+    Some hang on high, outstretched to viewless winds;
+    For some their sin’s contagion must be purged
+    In vast ablution of deep-rolling seas,
+    Or burned away in fire. Each man receives
+    His ghostly portion in the world of dark;
+    But thence to realms Elysian we go free,
+    Where for a few these seats of bliss abide,
+    Till time’s long lapse a perfect orb fulfills,
+    And takes all taint away, restoring so
+    The pure, ethereal soul’s first virgin fire.
+    At last, when the millennial aeon strikes,
+    God calls them forth to yon Lethaean stream,
+    In numerous host, that thence, oblivious all,
+    They may behold once more the vaulted sky,
+    And willingly to shapes of flesh return.”[22]
 
-<p><span class="pagenum"><a name="page_30" id="page_30"></a>{30}</span></p>
-
-<p class="nind">These words express the commingled beliefs of Orphic, Pythagorean,
+These words express the commingled beliefs of Orphic, Pythagorean,
 Platonist, and Stoic. How extensively such beliefs were held by Virgil’s
 contemporaries we cannot say with accuracy, but certain it is that this
 book and this passage would never have made the religious appeal which
 they made in antiquity, if they had not corresponded to widespread
-convictions.</p>
+convictions.
 
-<p>But Virgil’s sixth book contains much more than the eschatological views
+But Virgil’s sixth book contains much more than the eschatological views
 of philosophic schools; it reflects to an extraordinary degree popular
 ideas and practices. I have already referred to the fact that it
 represents a mystic initiation of Virgil’s hero as preparation for his
 holy task. Now we know that at all times the convictions of the majority
 of men are founded not on the arguments which thinkers can supply, but
 on hopes, intuitions, and emotional experiences. Such were the grounds
-on which the<span class="pagenum"><a name="page_31" id="page_31"></a>{31}</span> Orphic built his hope of the purified soul’s ultimate
+on which the Orphic built his hope of the purified soul’s ultimate
 happiness. More popular than Orphism were the Greek mysteries, of which
 the most important were those celebrated annually at Eleusis in Attica.
 There the story of the rape of Proserpina, of Demeter’s search for her
 daughter, and of the daughter’s recovery, formed the center of a mystic
 ceremonial. Originally these mysteries were no doubt agricultural rites
 intended to call to life the dead grain in the spring. But before the
-seventh century, <small>B.C.</small>, the festival had been transformed; the miracle of
+seventh century, B.C., the festival had been transformed; the miracle of
 the reviving vegetation, of the grain which dies and lives again, here,
 as so many times elsewhere, had become the symbol and assurance of human
-immortality.<span class="ntanc"><a name="anc_23" id="anc_23"></a><a href="#note_23">[23]</a></span></p>
+immortality.[23]
 
-<p>Before admission to the annual celebration the would-be initiate was
+Before admission to the annual celebration the would-be initiate was
 duly purified. During the celebration the initiated, by their own acts,
-recalled Demeter<span class="pagenum"><a name="page_32" id="page_32"></a>{32}</span>’s hunt for her daughter, roaming the shore with
+recalled Demeter’s hunt for her daughter, roaming the shore with
 lighted torches; like the goddess, they fasted and then broke their fast
 by drinking a holy potion of meal and water; in the great hall of
 initiation they witnessed a mystic drama, perhaps saw holy objects
@@ -728,70 +618,70 @@ that they were confident of peace and happiness in this life and of
 blessedness in the life to come, where they would join in the sacred
 dance, while the uninitiated would be wretched. Many are the expressions
 of this ecclesiastical confidence. The Homeric hymn of Demeter promised:
-“Blessed is he among mortal men who has seen these rites.”<span class="ntanc"><a name="anc_24" id="anc_24"></a><a href="#note_24">[24]</a></span> Pindar,
+“Blessed is he among mortal men who has seen these rites.”[24] Pindar,
 early in the fifth century, wrote: “Happy he who has seen these things
 and then goes beneath the earth, for he knows the end of life and its
-Zeus-given beginning.”<span class="ntanc"><a name="anc_25" id="anc_25"></a><a href="#note_25">[25]</a></span><span class="pagenum"><a name="page_33" id="page_33"></a>{33}</span> Sophocles said: “Thrice blessed are they who
+Zeus-given beginning.”[25] Sophocles said: “Thrice blessed are they who
 have seen these rites, and then go to the house of Hades, for they alone
-have life there, but all others have only woe.”<span class="ntanc"><a name="anc_26" id="anc_26"></a><a href="#note_26">[26]</a></span> At the close of the
+have life there, but all others have only woe.”[26] At the close of the
 fifth century Aristophanes made his chorus of mystae sing: “For we alone
 have a sun and a holy light, we who have been initiated, and who live
-honorably toward friends and strangers, reverencing the gods.”<span class="ntanc"><a name="anc_27" id="anc_27"></a><a href="#note_27">[27]</a></span> In
+honorably toward friends and strangers, reverencing the gods.”[27] In
 the third century of the Christian era, an official of the mysteries set
 up an inscription which declares: “Verily glorious is that mystery
 vouchsafed by the blessed gods, for death is no ill for mortals, but
-rather a good.”<span class="ntanc"><a name="anc_28" id="anc_28"></a><a href="#note_28">[28]</a></span></p>
+rather a good.”[28]
 
-<p>It is difficult for us now to appreciate the widespread influence of
+It is difficult for us now to appreciate the widespread influence of
 these Eleusinian mysteries. They had many branches; at Eleusis they
-continued to be celebrated until 396 <small>A.D.</small>, when Alaric the Goth
-destroyed Demeter’s ancient shrine. Other Greek mysteries also<span class="pagenum"><a name="page_34" id="page_34"></a>{34}</span>
+continued to be celebrated until 396 A.D., when Alaric the Goth
+destroyed Demeter’s ancient shrine. Other Greek mysteries also
 flourished in the Mediterranean world: those of Samothrace; the
 mysteries of Bacchus, whose excesses brought down the displeasure of the
-Roman Senate in 186 <small>B.C.</small>; and in later times the mysteries of Hecate or
+Roman Senate in 186 B.C.; and in later times the mysteries of Hecate or
 Diana. All had this in common, that they gave the initiate assurance of
-a happy immortality.</p>
+a happy immortality.
 
-<p>Under the Roman Empire the longing for religious satisfaction through
+Under the Roman Empire the longing for religious satisfaction through
 mystic rites and revelations found new and exotic sources of
 gratification. Slaves, traders, and finally soldiers from Hellenized
 Egypt, Syria, and Asia Minor, carried their gods throughout the
 Mediterranean world, and even beyond, to the Atlantic Ocean, to
 Hadrian’s Wall in Britain, to the Rhine and Danube, and to the borders
 of the African desert. The invasion of the West by these oriental gods
-began in 204 <small>B.C.</small>, when, in answer to the Roman Senate’s invitation, the
-Asiatic Great Mother of the Gods took up her<span class="pagenum"><a name="page_35" id="page_35"></a>{35}</span> residence in Rome. Many
+began in 204 B.C., when, in answer to the Roman Senate’s invitation, the
+Asiatic Great Mother of the Gods took up her residence in Rome. Many
 other divinities came during the succeeding centuries; but three
 remained most prominent: the Great Mother of the Gods, whom I have just
 mentioned, with her attendant Attis; Egyptian Isis and her associate
 divinities, who were worshipped in Rome as early as Cicero’s day; and
 the Persian Mithras, whose cult became influential in the West toward
-the close of the first century of our era.<span class="ntanc"><a name="anc_29" id="anc_29"></a><a href="#note_29">[29]</a></span> These religions added to
+the close of the first century of our era.[29] These religions added to
 their exotic charm that spell which great age casts over men’s
 imaginations. Osiris, the husband of Isis, had been lord of the dead in
 Egypt for more than two thousand years; Attis and the Great Mother
 belonged to an immemorial antiquity; while Mithras had his origin in the
 remoter East, at a period to which neither Greek nor Roman knowledge
 ran. Moreover, Attis and Osiris, like Dionysus and Persephone among the
-Greeks, or the<span class="pagenum"><a name="page_36" id="page_36"></a>{36}</span> Semitic Adonis and Tammuz, were gods who died and lived
+Greeks, or the Semitic Adonis and Tammuz, were gods who died and lived
 again, and who therefore became warrants of man’s immortality. Mithras
 belonged to another class of divinities. He was held to be the
 benefactor and constant supporter of mankind. According to the sacred
 legend, he had himself wrestled with the powers of darkness and had
 established civilization on earth, before he ascended to heaven, whence
 he was believed to aid his faithful followers in their constant struggle
-against the servants of Ahriman, the lord of wickedness.</p>
+against the servants of Ahriman, the lord of wickedness.
 
-<p>The devotees of these gods formed sacred communities, admission to which
+The devotees of these gods formed sacred communities, admission to which
 was obtained by secret initiation; the rituals were mysteries in which
 the devotee had pictured to him, or himself acted out, the sacred drama,
 whereby he received assurance of divine protection here and of a happy
-immortality hereafter. The initiate, moreover, was<span class="pagenum"><a name="page_37" id="page_37"></a>{37}</span> believed to
+immortality hereafter. The initiate, moreover, was believed to
 experience a new birth and to enter into union with his god, so that he
 became Osiris-Serapis, or Attis, or Mithras, even as the Dionysiac
-devotee became a Bacchus.</p>
+devotee became a Bacchus.
 
-<p>To the question how the comforting assurance of present safety and of
+To the question how the comforting assurance of present safety and of
 future immortality was given the initiate, we can return no more
 satisfactory answer than we can make in the case of the Greek mysteries;
 yet we may get some hint from the words which the Latin writer,
@@ -800,25 +690,25 @@ into the rites of Isis. This is all that he might tell: “I approached
 the bounds of death. I trod the threshold of Proserpina. I was carried
 through all the elements and returned again to the upper air. At dead of
 night I saw the sun glowing with a brilliant light. The gods of heaven
-and of hell I approached in very person and worshipped face to<span class="pagenum"><a name="page_38" id="page_38"></a>{38}</span>
-face.”<span class="ntanc"><a name="anc_30" id="anc_30"></a><a href="#note_30">[30]</a></span> Obscure as these words are, much is plain. In some way the
+and of hell I approached in very person and worshipped face to
+face.”[30] Obscure as these words are, much is plain. In some way the
 devotee was made to believe that he, like Virgil’s hero, had passed
 through the world of the dead and had been born again into a new life;
-he had touched the elements&mdash;earth, air, water, and fire, the very
+he had touched the elements--earth, air, water, and fire, the very
 foundations of the visible cosmos; he had seen the sun which ever shines
 on the consecrated; and he had been granted the beatific vision.
-Therefore he knew that his salvation was secure forever.</p>
+Therefore he knew that his salvation was secure forever.
 
-<p>Furthermore in these mystery religions preparation for the emotional
+Furthermore in these mystery religions preparation for the emotional
 experiences of initiation was made by means of lustral baths, fasting,
 abstinence, and penance; once consecrated, the devotee supported his
 religious life by following a prescribed regimen and by participating in
 frequent holy offices; degrees of initiation and grades of office marked
-his advance in faithful proficiency; while<span class="pagenum"><a name="page_39" id="page_39"></a>{39}</span> magic words and formulae,
+his advance in faithful proficiency; while magic words and formulae,
 committed to memory, assured him a safe passage from this world to the
-next.</p>
+next.
 
-<p>The oriental mysteries enjoyed a widespread popularity, except in
+The oriental mysteries enjoyed a widespread popularity, except in
 Greece, under the Roman Empire down to the latter half of the third
 century. Then they began to lose their hold in the Roman provinces
 before the growing power of Christianity; yet in the city of Rome they
@@ -826,11 +716,11 @@ stubbornly held their ground until the end of the fourth century. The
 first St. Peter’s was built hard beside a shrine of the Great Mother of
 the Gods; there for three-quarters of a century the old and the new
 mysteries strove in conscious rivalry, until at last Cybele was forced
-to yield to Christ.</p>
+to yield to Christ.
 
-<p>The last centuries before the birth of Jesus and the opening centuries
+The last centuries before the birth of Jesus and the opening centuries
 of our era were marked by an increasing religious longing and unrest,
-first among the Greeks and then among the Romans.<span class="pagenum"><a name="page_40" id="page_40"></a>{40}</span> There was a weariness
+first among the Greeks and then among the Romans. There was a weariness
 and a dissatisfaction with the inherited forms of religious expression;
 and many felt a sense of separation from God, of a gulf between the
 human and the divine, which they hoped might be bridged by a direct
@@ -840,28 +730,28 @@ credulity, over which we need not now pause; in part to the resort to
 the oriental mysteries of which I have just spoken; and in part to a
 revival of Pythagorean mysticism and of mystic Platonism among the
 intellectuals, who no longer felt that the reason and the will gave them
-the assurance which they required.</p>
+the assurance which they required.
 
-<p>The later mystic philosophies laid much stress on an ascetic discipline
+The later mystic philosophies laid much stress on an ascetic discipline
 in this life, to secure the soul’s purification, and all taught that the
-great end of man was to attain to the knowledge of God,<span class="pagenum"><a name="page_41" id="page_41"></a>{41}</span> wherein lay
+great end of man was to attain to the knowledge of God, wherein lay
 man’s supreme happiness. Such knowledge, it was thought, could come only
 through a revelation. Here these philosophies agreed with the teaching
 of the oriental mysteries, and indeed with popular belief as well. On
 the question of the immortality of the soul, however, the later mystics
 brought forward no new arguments. Plotinus, the greatest of the
 Neoplatonists, virtually repeats the proofs adduced by the founder of
-the Academy.<span class="ntanc"><a name="anc_31" id="anc_31"></a><a href="#note_31">[31]</a></span> Undoubtedly during the opening centuries of the
+the Academy.[31] Undoubtedly during the opening centuries of the
 Christian era there was a growing belief in the soul’s immortality, or
 at least an increasing hope of a future life, but such hopes and
 beliefs, outside Christianity, were not based on new arguments. Plato
 had once for all in antiquity, supplied the philosophic grounds for
 confidence. Only in modern times have new arguments of any weight been
-adduced.<span class="pagenum"><a name="page_42" id="page_42"></a>{42}</span></p>
+adduced.
 
-<hr />
+       *       *       *       *       *
 
-<p>Let us now pause to summarize the results of the considerations which
+Let us now pause to summarize the results of the considerations which
 have thus far occupied us. We may fairly say that, in spite of popular
 doubt, intellectual scepticism, and philosophic denial, beliefs in some
 kind of existence beyond the grave were widespread in the Greco-Roman
@@ -873,37 +763,41 @@ of Greek mysteries; others, again, strengthened to endure the buffetings
 of this life by the resolute doctrines of Stoicism, were satisfied with
 the extended, though limited, future existence vouchsafed the virtuous;
 while the later Platonists, returning to the mystic Orphic-Pythagorean
-elements which had influenced the<span class="pagenum"><a name="page_43" id="page_43"></a>{43}</span> founder of their school, offered
+elements which had influenced the founder of their school, offered
 their disciples arguments in favor of a genuine immortality. Under the
 Empire the supports of faith became more numerous and appealing. At the
 lowest end of the scale were charlatans, as there had been since Plato’s
-day,<span class="ntanc"><a name="anc_32" id="anc_32"></a><a href="#note_32">[32]</a></span> who imposed on the fears and hopes of their victims for their
+day,[32] who imposed on the fears and hopes of their victims for their
 own mercenary ends. Higher were those inspiring Eastern mysteries which
 were carried to the remotest provinces, binding their devotees by
 initiation, ritual service, and a prescribed regimen, more constantly to
 a religious life than Greek mysteries had ever done; and the great end
 of all was the assurance that the souls of the faithful should not die,
-but should mount to the upper heavens to be at one with God.</p>
+but should mount to the upper heavens to be at one with God.
 
-<p>The last vital philosophy of antiquity was Neoplatonism, on which we
+The last vital philosophy of antiquity was Neoplatonism, on which we
 have just touched; the chief aim of the Neoplatonist also was to secure
-union with<span class="pagenum"><a name="page_44" id="page_44"></a>{44}</span> the Divine, and his greatest article of faith was the soul’s
+union with the Divine, and his greatest article of faith was the soul’s
 immortality. If this theosophic philosophy seem to any of poor account,
 I would remind him that by Origen and Augustine Neoplatonism was brought
-into Christian thought, where it has been operative ever since.</p>
+into Christian thought, where it has been operative ever since.
 
-<h2><a name="III" id="III"></a>III</h2>
 
-<p>In view of the facts with which we have been occupied we shall not make
+
+
+III
+
+
+In view of the facts with which we have been occupied we shall not make
 the error of thinking that Christianity brought the hope of immortality
-among men, for, as we have seen, hope&mdash;nay, sure confidence, in the
+among men, for, as we have seen, hope--nay, sure confidence, in the
 soul’s survival was widespread throughout the ancient world when Jesus
 began his ministry. What can we say of early Christian teaching, and how
-was it related to its pagan environment?</p>
+was it related to its pagan environment?
 
-<p>Christianity grew out of Judaism. Now it is a striking fact that the
-Jews were later than most of the peoples about<span class="pagenum"><a name="page_45" id="page_45"></a>{45}</span> them in conceiving of
-individual immortality.<span class="ntanc"><a name="anc_33" id="anc_33"></a><a href="#note_33">[33]</a></span> Clinging to monotheism and absorbed in the
+Christianity grew out of Judaism. Now it is a striking fact that the
+Jews were later than most of the peoples about them in conceiving of
+individual immortality.[33] Clinging to monotheism and absorbed in the
 life of their nation, they had cut themselves off from some of the ideas
 developed by their neighbors. To follow out the intricate and uncertain
 history of eschatological ideas among the Jews would be too difficult
@@ -915,40 +809,40 @@ through God’s grace and their own righteousness had won a place therein;
 but the wicked were either to be punished forever or to be utterly
 destroyed. To these ideas Jesus’ teaching was closely related, although
 he gave a nobler meaning to Jewish doctrine, and he did not limit the
-hope of a future existence so narrowly as<span class="pagenum"><a name="page_46" id="page_46"></a>{46}</span> some would do. Moreover, he
+hope of a future existence so narrowly as some would do. Moreover, he
 adopted from the law the teaching which made salvation and future
 happiness depend on a love for God and for one’s fellow-men, which would
 result in an unselfish life of righteousness. Salvation, he taught, was
 a present experience, open to every man who conformed to the
-requirement.</p>
+requirement.
 
-<p>After the crucifixion of Jesus, the Apostles and their successors
+After the crucifixion of Jesus, the Apostles and their successors
 naturally made his person, death, and resurrection the great means
 through which his followers secured salvation. Paul, moreover, taught
-that through faith&mdash;using the word in a somewhat unusual sense&mdash;the
+that through faith--using the word in a somewhat unusual sense--the
 believer secured the actual presence of Christ within him, entered into
 a mystic union with the divine Saviour, by which the man was freed from
 sin and reborn into a new spiritual life; this new life was confirmed by
-the indwelling Holy Spirit which completed the man’s<span class="pagenum"><a name="page_47" id="page_47"></a>{47}</span> moral
+the indwelling Holy Spirit which completed the man’s moral
 regeneration. In the Fourth Gospel we find a similar doctrine of a
 mystic union with Christ, secured by belief in Him as the incarnate
-Word&mdash;a belief which brought about a spiritual rebirth and therewith
-gave a present warrant of eternal life.<span class="ntanc"><a name="anc_34" id="anc_34"></a><a href="#note_34">[34]</a></span></p>
+Word--a belief which brought about a spiritual rebirth and therewith
+gave a present warrant of eternal life.[34]
 
-<p>It is unnecessary for our present purpose to examine the beliefs of the
+It is unnecessary for our present purpose to examine the beliefs of the
 earliest Christians as to the resurrection or the second coming of
-Christ, which they expected to take place within their own time&mdash;these
+Christ, which they expected to take place within their own time--these
 beliefs and many others the Apostolic Church derived naturally from
 their Jewish tradition and from the teachings of Jesus. I shall ask you
 rather to focus your thought on the fundamental ideas of this early
 Christianity: that is to say, on the revelation of God, the punishment
 of sin by suffering or annihilation, the mystic union with the Divine,
 and a happy immortality as a reward for faith and righteousness. Were
-these<span class="pagenum"><a name="page_48" id="page_48"></a>{48}</span> ideas foreign to the peoples of the Mediterranean area? No, our
+these ideas foreign to the peoples of the Mediterranean area? No, our
 survey has reminded us that on the contrary they were familiar over wide
-stretches of the Greco-Roman world.</p>
+stretches of the Greco-Roman world.
 
-<p>Do not misunderstand me here. Of course I am not making the elementary
+Do not misunderstand me here. Of course I am not making the elementary
 blunder of saying that because certain beliefs of the Christians and the
 Pagans were similar, they therefore were identical, or that they were
 derived from one another, or that the many factors of which they were
@@ -957,7 +851,7 @@ religious thought could maintain that. But the point which I do wish to
 emphasize is this, viz.: that the eschatological ideas widely current in
 the Mediterranean world were such that Christianity found a favorable
 environment when it began its proselyting work. This seems to me one of
-the most significant facts in the relation of early<span class="pagenum"><a name="page_49" id="page_49"></a>{49}</span> Christianity to
+the most significant facts in the relation of early Christianity to
 paganism. The Christian teachings as to the means by which the assurance
 of a happy immortality was to be secured could hardly seem very strange
 at first hearing to any one who was familiar with mystery religions or
@@ -966,81 +860,81 @@ the early Christian centuries. Closer examination would reveal
 fundamental differences between Christian belief and the pagan hope. But
 it is not insignificant that Christianity spread most rapidly at first
 in Syria and Asia Minor, countries long familiar with those mystic
-religions, which had promised what the nobler faith supplied.</p>
+religions, which had promised what the nobler faith supplied.
 
-<h2><a name="IV" id="IV"></a>IV</h2>
 
-<p>Although we now have examined the conditions which, to my mind, are the
+
+
+IV
+
+
+Although we now have examined the conditions which, to my mind, are the
 most significant in the relation of pagan ideas of immortality to those
-of early Christianity, there yet remain matters<span class="pagenum"><a name="page_50" id="page_50"></a>{50}</span> which, if less
+of early Christianity, there yet remain matters which, if less
 important, are still of more than merely curious interest. We shall now
-look at some of these questions.</p>
+look at some of these questions.
 
-<p>What notions of heaven and of hell did the Greeks and Romans have? This
+What notions of heaven and of hell did the Greeks and Romans have? This
 inquiry is often made. The reply is easily given. Man has always painted
 hell and paradise after his own conception of suffering and of
 happiness, just as truly as he has made God after his own image.
 Consequently the ancient’s ideas of the future life ranged all the way
 from the grossest materialistic concepts to highly spiritualized
 beliefs. Plato in the Republic makes Adeimantus say that some seem to
-think that an immortality of drunkenness is virtue’s highest meed.<span class="ntanc"><a name="anc_35" id="anc_35"></a><a href="#note_35">[35]</a></span>
+think that an immortality of drunkenness is virtue’s highest meed.[35]
 But Socrates conceived the future state to be something very different;
 a place in which he could hold high discourse with the great ones of the
-past.<span class="ntanc"><a name="anc_36" id="anc_36"></a><a href="#note_36">[36]</a></span> In general, however, punishment and rewards were of a material
-sort, for such<span class="pagenum"><a name="page_51" id="page_51"></a>{51}</span> are most easily imagined and understood. Has it been
+past.[36] In general, however, punishment and rewards were of a material
+sort, for such are most easily imagined and understood. Has it been
 otherwise with Christians? The answer is to be found in Christian
 apocalypses, medieval monuments, renaissance art, and in our own minds.
 Of course there developed in Greek thought what we might call an
 orthodox geography and scheme for the other world, of which Virgil gives
 us a just picture. Interesting as it might prove to examine the details
-of this picture, we will rather turn to other matters.</p>
+of this picture, we will rather turn to other matters.
 
-<p>When Christianity spread among the Gentiles, it at once came under
+When Christianity spread among the Gentiles, it at once came under
 influences which inevitably left their marks in its thought and
-practice. Let me offer two illustrations.</p>
+practice. Let me offer two illustrations.
 
-<p>Early in the hour I spoke of Aeneas’ journey through the lower world as
+Early in the hour I spoke of Aeneas’ journey through the lower world as
 an initiation by which he was enlightened and strengthened for the great
 task that lay before him; and we have now seen that in all the
-mysteries, both Greek and<span class="pagenum"><a name="page_52" id="page_52"></a>{52}</span> oriental, there were initiatory rites, in
+mysteries, both Greek and oriental, there were initiatory rites, in
 which the novice symbolically died to the old life and was born again
 into a new existence. Moreover, through his emotional experience he
 received assurance that his salvation was secure forever. The idea of
 the new birth belongs to Christianity also from the first. Paul held
 that it was brought about by faith; the author of the Fourth Gospel
 taught that it was secured by love and belief. Baptism in primitive
-Christianity was at first symbolical&mdash;an act of ritual purification,
+Christianity was at first symbolical--an act of ritual purification,
 which was believed to indicate the remission of sins and the bestowal of
-the Holy Spirit.<span class="ntanc"><a name="anc_37" id="anc_37"></a><a href="#note_37">[37]</a></span> But by the second century Christianity had become a
+the Holy Spirit.[37] But by the second century Christianity had become a
 mystery in the Greek sense, into which the novice, after a period of
 preparation, was duly initiated by baptism; and indeed the act was
 believed to have a magic power to secure immortality, closely parallel
-to that of the pagan initiation.<span class="pagenum"><a name="page_53" id="page_53"></a>{53}</span><span class="ntanc"><a name="anc_38" id="anc_38"></a><a href="#note_38">[38]</a></span> We all know that the
+to that of the pagan initiation.[38] We all know that the
 ecclesiastical confidence which such belief inspires is far from unknown
-today.</p>
+today.
 
-<p>Again you will recall that when Anchises’ shade was instructing Aeneas
-in the meaning of life and death, he said:</p>
+Again you will recall that when Anchises’ shade was instructing Aeneas
+in the meaning of life and death, he said:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Nor when to life’s last beam they bid farewell<br /></span>
-<span class="i1">May sufferers cease from pain, nor quite be freed<br /></span>
-<span class="i1">From all their fleshly plagues; but by fixed law,<br /></span>
-<span class="i1">The strange, inveterate taint works deeply in.<br /></span>
-<span class="i1">For this, the chastisement of evils past<br /></span>
-<span class="i1">Is suffered here, and full requital paid.<br /></span>
-<span class="i1">Some hang on high, outstretched to viewless winds;<br /></span>
-<span class="i1">For some their sin’s contagion must be purged<br /></span>
-<span class="i1">In vast ablution of deep-rolling seas,<br /></span>
-<span class="i1">Or burned away in fire. Each man receives<br /></span>
-<span class="i1">His ghostly portion in the world of dark.”<br /></span>
-</div></div>
-</div>
+    “Nor when to life’s last beam they bid farewell
+    May sufferers cease from pain, nor quite be freed
+    From all their fleshly plagues; but by fixed law,
+    The strange, inveterate taint works deeply in.
+    For this, the chastisement of evils past
+    Is suffered here, and full requital paid.
+    Some hang on high, outstretched to viewless winds;
+    For some their sin’s contagion must be purged
+    In vast ablution of deep-rolling seas,
+    Or burned away in fire. Each man receives
+    His ghostly portion in the world of dark.”
 
-<p class="nind">Thus the sojourn of the soul in the world below for the thousand years
+Thus the sojourn of the soul in the world below for the thousand years
 which must elapse before it could be born again, was a period of
-cleansing from ancient sin. This idea of purification we have already<span class="pagenum"><a name="page_54" id="page_54"></a>{54}</span>
+cleansing from ancient sin. This idea of purification we have already
 seen to be as old as the Orphics; it was made an important element by
 Plato; and indeed all who held to the doctrine of rebirths regarded the
 periods between earthly existences as times of moral punishment and
@@ -1053,23 +947,23 @@ been influential in the development of a Christian belief in
 purification, especially by fire, in an intermediate state between death
 and paradise. The doctrine of purgatory, in somewhat different forms,
 has been held by both the Eastern and the Western Churches. Although
-this doctrine did not become a definite part of the theology<span class="pagenum"><a name="page_55" id="page_55"></a>{55}</span> of the
+this doctrine did not become a definite part of the theology of the
 Western Church until the time of Gregory the Great (590-604),
 nevertheless traces of it can be found in the earlier Church writers.
 Origen held that even the perfect must pass through fire after
-death;<span class="ntanc"><a name="anc_39" id="anc_39"></a><a href="#note_39">[39]</a></span> St. Augustine was less confident, but he thought it not past
-belief that imperfect souls might be saved by cleansing flames.<span class="ntanc"><a name="anc_40" id="anc_40"></a><a href="#note_40">[40]</a></span> The
+death;[39] St. Augustine was less confident, but he thought it not past
+belief that imperfect souls might be saved by cleansing flames.[40] The
 Western Church, from St. Thomas Aquinas in the thirteenth to Bellarmino
 in the sixteenth century held the doctrine that the cleansing fire was
 as material as that of any Stoic; but today that view has in large part
-been abandoned.<span class="ntanc"><a name="anc_41" id="anc_41"></a><a href="#note_41">[41]</a></span></p>
+been abandoned.[41]
 
-<p>These two illustrations must suffice to suggest the ways in which
-Christian thought was influenced by its pagan environment.</p>
+These two illustrations must suffice to suggest the ways in which
+Christian thought was influenced by its pagan environment.
 
-<p>Finally we will consider an example of parallelism between pagan and
+Finally we will consider an example of parallelism between pagan and
 Christian ideas. It is evident that the Greeks, who made such large use
-of successive<span class="pagenum"><a name="page_56" id="page_56"></a>{56}</span> rebirths, following periods of punishment and
+of successive rebirths, following periods of punishment and
 purification below, thought of these repeated lives and deaths as
 forming a moral series, so that moral progress, or degeneracy, at one
 stage was inseparably connected with both the preceding and the
@@ -1082,174 +976,165 @@ part at least on righteousness in this life; the oriental mysteries too
 made this existence the condition of the next. In short, we may say that
 wherever men believed in any kind of a future existence, they almost
 universally held to the common belief that future happiness was to be
-the reward of a virtuous life on<span class="pagenum"><a name="page_57" id="page_57"></a>{57}</span> earth. But this is one of the
+the reward of a virtuous life on earth. But this is one of the
 fundamental principles of Christianity. Paganism, therefore, was in
 accord on this point with its enemy, and thereby favored the propagation
 of the new religion; moreover, the superior ethical demands of
 Christianity and its humanitarian principles no doubt found a ready
-response, especially in enlightened circles.</p>
+response, especially in enlightened circles.
 
-<p>So we have returned to that which seems to me most important in the
+So we have returned to that which seems to me most important in the
 relations of paganism and of early Christianity. In many ways paganism
 provided an environment favorable for the spread of the religion which
 Jesus founded. The two were at many points irreconcilable, and the
 former has not always benefited the latter by its influence; but it is a
 grave historical error not to recognize the areas in which the thought
 of the two ran parallel. Is the nobler faith the poorer because its
-paths were made broad by the pagan in his search after Immortality?</p>
+paths were made broad by the pagan in his search after Immortality?
 
-<p><span class="pagenum"><a name="page_58" id="page_58"></a>{58}</span>&nbsp; </p>
 
-<p><span class="pagenum"><a name="page_59" id="page_59"></a>{59}</span>&nbsp; </p>
 
-<h2><a name="NOTES" id="NOTES"></a>NOTES</h2>
 
-<p><span class="pagenum"><a name="page_60" id="page_60"></a>{60}</span>&nbsp; </p>
+NOTES
 
-<p><span class="pagenum"><a name="page_61" id="page_61"></a>{61}</span>&nbsp; </p>
 
-<p><a name="note_1" id="note_1"></a><a href="#anc_1">1.</a> Eduard Norden, <i>Aeneis</i>, <i>Buch VI</i>, Leipzig, 1903, is most useful for
-its commentary, especially on religious and philosophic matters.</p>
+1. Eduard Norden, _Aeneis_, _Buch VI_, Leipzig, 1903, is most useful for
+its commentary, especially on religious and philosophic matters.
 
-<p><a name="note_2" id="note_2"></a><a href="#anc_2">2.</a> W. Warde Fowler, <i>The Religious Experience of the Roman People</i>,
-Macmillan Co., 1911, pp. 419 ff.</p>
+2. W. Warde Fowler, _The Religious Experience of the Roman People_,
+Macmillan Co., 1911, pp. 419 ff.
 
-<p>So Dante’s journey through Hell, Purgatory, and Paradise secured his
+So Dante’s journey through Hell, Purgatory, and Paradise secured his
 conversion and salvation, bringing him finally to freedom and to
-knowledge. <i>Paradiso</i>, XXXI, 85-87 and XXXIII entire.</p>
+knowledge. _Paradiso_, XXXI, 85-87 and XXXIII entire.
 
-<p><a name="note_3" id="note_3"></a><a href="#anc_3">3.</a> Metempsychosis was the subject of the Ingersoll lecture by Professor
-George Foot Moore in 1914. Therefore that theme is not discussed here.</p>
+3. Metempsychosis was the subject of the Ingersoll lecture by Professor
+George Foot Moore in 1914. Therefore that theme is not discussed here.
 
-<p><a name="note_4" id="note_4"></a><a href="#anc_4">4.</a> Cf. Friedländer, <i>Roman Life and Manners</i>, Routledge, London, 1910,
-iii, chap. II.</p>
+4. Cf. Friedländer, _Roman Life and Manners_, Routledge, London, 1910,
+iii, chap. II.
 
-<p><a name="note_5" id="note_5"></a><a href="#anc_5">5.</a> On the pre-Hellenic periods, see Schuchhardt, <i>Schliemann’s
-Excavations</i>, New York, 1891, passim; Lagrange, <i>La Crète Ancienne</i>,
-Paris, 1908, chap. II; Baikie, <i>The Sea-Kings of Crete</i>, London, 1910,
-chap. XI.</p>
+5. On the pre-Hellenic periods, see Schuchhardt, _Schliemann’s
+Excavations_, New York, 1891, passim; Lagrange, _La Crète Ancienne_,
+Paris, 1908, chap. II; Baikie, _The Sea-Kings of Crete_, London, 1910,
+chap. XI.
 
-<p><a name="note_6" id="note_6"></a><a href="#anc_6">6.</a> Cf. Fairbanks, <i>Greek Religion</i>, New York, 1910, pp. 168-188;
-Stengel, <i>Griechische Kultusaltertümer</i>, 2d ed., Munich, 1898, § 80;
-Wissowa, <i>Religion und Kultus der Römer</i>, 2d ed., Munich, 1912, § 36; W.
-Warde Fowler, <i>Religious Experience of the Roman People</i>, London, 1911,
-passim; and especially Lecture XVII, “Mysticism&mdash;Ideas<span class="pagenum"><a name="page_62" id="page_62"></a>{62}</span> of the Future
-Life;” C. Pascal, <i>Le Credenze d’Oltretomba</i>, 2 vols., 1912.</p>
+6. Cf. Fairbanks, _Greek Religion_, New York, 1910, pp. 168-188;
+Stengel, _Griechische Kultusaltertümer_, 2d ed., Munich, 1898, § 80;
+Wissowa, _Religion und Kultus der Römer_, 2d ed., Munich, 1912, § 36; W.
+Warde Fowler, _Religious Experience of the Roman People_, London, 1911,
+passim; and especially Lecture XVII, “Mysticism--Ideas of the Future
+Life;” C. Pascal, _Le Credenze d’Oltretomba_, 2 vols., 1912.
 
-<p><a name="note_7" id="note_7"></a><a href="#anc_7">7.</a> B. I. Wheeler, <i>Dionysos and Immortality</i>, Ingersoll Lecture for
-1898-99. The classic work on Orphism is Rohde, <i>Psyche: Seelencult und
-Unsterblichkeitsglaube der Griechen</i>, 3d ed., Tübingen, 1903, vol. ii.</p>
+7. B. I. Wheeler, _Dionysos and Immortality_, Ingersoll Lecture for
+1898-99. The classic work on Orphism is Rohde, _Psyche: Seelencult und
+Unsterblichkeitsglaube der Griechen_, 3d ed., Tübingen, 1903, vol. ii.
 
-<p><a name="note_8" id="note_8"></a><a href="#anc_8">8.</a> <i>Frg.</i> 154 Abel.</p>
+8. _Frg._ 154 Abel.
 
-<p><a name="note_9" id="note_9"></a><a href="#anc_9">9.</a> Apparently Orphism was already established at Croton in southern
-Italy when Pythagoras arrived there about 530 <small>B.C.</small>; but the matter is
+9. Apparently Orphism was already established at Croton in southern
+Italy when Pythagoras arrived there about 530 B.C.; but the matter is
 very uncertain. It is clear that Orphism and Pythagoreanism soon
-coalesced, even if they were originally distinct.</p>
+coalesced, even if they were originally distinct.
 
-<p><a name="note_10" id="note_10"></a><a href="#anc_10">10.</a> <i>Rep.</i>, vi, 508 f. It should be said that the identity of Plato’s
-supreme idea with God is denied by some Platonists; but cf. <i>Phil.</i> 22<span class="smcap">C</span>;
-<i>Tim.</i> 28<span class="smcap">A</span>-29<span class="smcap">E</span>, 57<span class="smcap">A</span>, 92<span class="smcap">C</span>.</p>
+10. _Rep._, vi, 508 f. It should be said that the identity of Plato’s
+supreme idea with God is denied by some Platonists; but cf. _Phil._ 22C;
+_Tim._ 28A-29E, 57A, 92C.
 
-<p><a name="note_11" id="note_11"></a><a href="#anc_11">11.</a> The doctrine of ideas is developed in the <i>Phaedo</i>, <i>Phaedrus</i>,
-<i>Meno</i>, <i>Symposium</i>, and especially in the <i>Republic</i>. In the <i>Sophist</i>
-and the <i>Parmenides</i>, Plato criticizes his own views acutely.</p>
+11. The doctrine of ideas is developed in the _Phaedo_, _Phaedrus_,
+_Meno_, _Symposium_, and especially in the _Republic_. In the _Sophist_
+and the _Parmenides_, Plato criticizes his own views acutely.
 
-<p><a name="note_12" id="note_12"></a><a href="#anc_12">12.</a> <i>Metaphys.</i>, i, 9; vi, 8; xii, 10; xiii, 3.</p>
+12. _Metaphys._, i, 9; vi, 8; xii, 10; xiii, 3.
 
-<p><a name="note_13" id="note_13"></a><a href="#anc_13">13.</a> <i>Phaedrus</i>, 245 (cf. <i>Laws</i>, x, 894<span class="smcap">B</span> ff., xii, 966<span class="smcap">E</span>); <i>Phaedo</i>, 72
-ff., 86, 105; <i>Meno</i>, 81 ff.</p>
+13. _Phaedrus_, 245 (cf. _Laws_, x, 894B ff., xii, 966E); _Phaedo_, 72
+ff., 86, 105; _Meno_, 81 ff.
 
-<p><a name="note_14" id="note_14"></a><a href="#anc_14">14.</a> <i>Diss.</i>, i, 14, 6; ii, 8, 11.</p>
+14. _Diss._, i, 14, 6; ii, 8, 11.
 
-<p><a name="note_15" id="note_15"></a><a href="#anc_15">15.</a> Cf. E. V. Arnold, <i>Roman Stoicism</i>, University Press, Cambridge
-(Eng.), 1911, chap. XI.</p>
+15. Cf. E. V. Arnold, _Roman Stoicism_, University Press, Cambridge
+(Eng.), 1911, chap. XI.
 
-<p><a name="note_16" id="note_16"></a><a href="#anc_16">16.</a> Rohde, <i>Psyche</i>, ii^3, 379 ff.</p>
+16. Rohde, _Psyche_, ii^3, 379 ff.
 
-<p><a name="note_17" id="note_17"></a><a href="#anc_17">17.</a> <i>CIL.</i>, ii, 1434; cf. 1877, 2262.</p>
+17. _CIL._, ii, 1434; cf. 1877, 2262.
 
-<p><a name="note_18" id="note_18"></a><a href="#anc_18">18.</a> <i>CIL.</i>, v, 1939.</p>
+18. _CIL._, v, 1939.
 
-<p><a name="note_19" id="note_19"></a><a href="#anc_19">19.</a> <i>CIL.</i>, vi, 14672 = <i>Ins. Graec.</i>, xiv, 1746.<span class="pagenum"><a name="page_63" id="page_63"></a>{63}</span></p>
+19. _CIL._, vi, 14672 = _Ins. Graec._, xiv, 1746.
 
-<p><a name="note_20" id="note_20"></a><a href="#anc_20">20.</a> Call., <i>Epig.</i>, 13, 3 ff.</p>
+20. Call., _Epig._, 13, 3 ff.
 
-<p><a name="note_21" id="note_21"></a><a href="#anc_21">21.</a> <i>CIL.</i>, iii, 5825; vi, 9280, 10848; x, 6706; etc.</p>
+21. _CIL._, iii, 5825; vi, 9280, 10848; x, 6706; etc.
 
-<p><a name="note_22" id="note_22"></a><a href="#anc_22">22.</a> <i>Aen.</i>, vi, 723-751. Translation by Theodore C. Williams, Houghton
-Mifflin Company, Boston, 1908.</p>
+22. _Aen._, vi, 723-751. Translation by Theodore C. Williams, Houghton
+Mifflin Company, Boston, 1908.
 
-<p><a name="note_23" id="note_23"></a><a href="#anc_23">23.</a> On these mysteries, see Rohde, <i>Psyche</i>, i^3, pp. 278 ff.; Farnell,
-<i>Cults of the Greek States</i>, iii, 126-213; A. Mommsen, <i>Feste der Stadt
-Athen</i>, pp. 204-277, 405-421.</p>
+23. On these mysteries, see Rohde, _Psyche_, i^3, pp. 278 ff.; Farnell,
+_Cults of the Greek States_, iii, 126-213; A. Mommsen, _Feste der Stadt
+Athen_, pp. 204-277, 405-421.
 
-<p><a name="note_24" id="note_24"></a><a href="#anc_24">24.</a> 480 f.</p>
+24. 480 f.
 
-<p><a name="note_25" id="note_25"></a><a href="#anc_25">25.</a> <i>Frg.</i> 137.</p>
+25. _Frg._ 137.
 
-<p><a name="note_26" id="note_26"></a><a href="#anc_26">26.</a> <i>Frg.</i> 753.</p>
+26. _Frg._ 753.
 
-<p><a name="note_27" id="note_27"></a><a href="#anc_27">27.</a> 454 ff.</p>
+27. 454 ff.
 
-<p><a name="note_28" id="note_28"></a><a href="#anc_28">28.</a> <i>Eph. Arch.</i>, iii (1883), p. 81, 8.</p>
+28. _Eph. Arch._, iii (1883), p. 81, 8.
 
-<p><a name="note_29" id="note_29"></a><a href="#anc_29">29.</a> On these and other oriental gods, see F. Cumont, <i>The Oriental
-Religions in Roman Paganism</i>, Chicago, 1911; also G. Showerman, <i>The
-Great Mother of the Gods</i>, 1901; Hepding, <i>Attis</i>, 1903; W. Budge,
-<i>Osiris and the Egyptian Resurrection</i>, 2 vols., 1911; G. A. Reisner,
-<i>The Egyptian Conception of Immortality</i>, Ingersoll Lecture for 1911; F.
-Cumont, <i>Textes et Monuments relatifs aux Mystères de Mithra</i>, 2 vols.,
-1894-1900; Id., <i>Les Mystères de Mithra</i>, 2 ed., 1902; English
-translation, 1910.</p>
+29. On these and other oriental gods, see F. Cumont, _The Oriental
+Religions in Roman Paganism_, Chicago, 1911; also G. Showerman, _The
+Great Mother of the Gods_, 1901; Hepding, _Attis_, 1903; W. Budge,
+_Osiris and the Egyptian Resurrection_, 2 vols., 1911; G. A. Reisner,
+_The Egyptian Conception of Immortality_, Ingersoll Lecture for 1911; F.
+Cumont, _Textes et Monuments relatifs aux Mystères de Mithra_, 2 vols.,
+1894-1900; Id., _Les Mystères de Mithra_, 2 ed., 1902; English
+translation, 1910.
 
-<p><a name="note_30" id="note_30"></a><a href="#anc_30">30.</a> Apuleius, <i>Metamorphoses</i>, xi, 23.</p>
+30. Apuleius, _Metamorphoses_, xi, 23.
 
-<p><a name="note_31" id="note_31"></a><a href="#anc_31">31.</a> <i>Enn.</i>, iv, 7.</p>
+31. _Enn._, iv, 7.
 
-<p><a name="note_32" id="note_32"></a><a href="#anc_32">32.</a> Cf. Plato, <i>Rep.</i>, 364 <span class="smcap">B</span> ff.; <i>Demosth.</i>, xviii, 259; Apul., <i>Met.</i>,
-viii, 24 ff.</p>
+32. Cf. Plato, _Rep._, 364 B ff.; _Demosth._, xviii, 259; Apul., _Met._,
+viii, 24 ff.
 
-<p><a name="note_33" id="note_33"></a><a href="#anc_33">33.</a> R. H. Charles, <i>A Critical History of the Doctrine of a Future Life
-in Israel, in Judaism, and<span class="pagenum"><a name="page_64" id="page_64"></a>{64}</span> in Christianity</i>, London, 1899, is a
-convenient book, but one which must be used with caution.</p>
+33. R. H. Charles, _A Critical History of the Doctrine of a Future Life
+in Israel, in Judaism, and in Christianity_, London, 1899, is a
+convenient book, but one which must be used with caution.
 
-<p><a name="note_34" id="note_34"></a><a href="#anc_34">34.</a> A. Harnack, <i>Lehrbuch der Dogmengeschichte</i>, i, 4th ed., 1909;
+34. A. Harnack, _Lehrbuch der Dogmengeschichte_, i, 4th ed., 1909;
 English translation from the third German edition, 1901; G. B. Stevens,
-<i>The Theology of the New Testament</i>, 1903; H. Holtzmann, <i>Lehrbuch der
-neutestamentlichen Theologie</i>, 2 vols., 2d ed., 1911.</p>
+_The Theology of the New Testament_, 1903; H. Holtzmann, _Lehrbuch der
+neutestamentlichen Theologie_, 2 vols., 2d ed., 1911.
 
-<p><a name="note_35" id="note_35"></a><a href="#anc_35">35.</a> <i>Rep.</i>, ii, 363 D.</p>
+35. _Rep._, ii, 363 D.
 
-<p><a name="note_36" id="note_36"></a><a href="#anc_36">36.</a> <i>Apol.</i>, 41.</p>
+36. _Apol._, 41.
 
-<p><a name="note_37" id="note_37"></a><a href="#anc_37">37.</a> It should be said that even in the earliest period Christian baptism
+37. It should be said that even in the earliest period Christian baptism
 had certain magical notions attached to it; not, however, the belief
-that it secured immortality.</p>
+that it secured immortality.
 
-<p><a name="note_38" id="note_38"></a><a href="#anc_38">38.</a> Cf. Hatch, <i>The Influence of Greek Ideas and Usages on the Christian
-Church</i>, <span class="smcap">X</span>, <span class="smcap">B</span>; Anrich, <i>Das antike Mysterienwesen in seinem Einfluss auf
-das Christentum</i>, 1894, pp. 168 ff., especially 179 ff.</p>
+38. Cf. Hatch, _The Influence of Greek Ideas and Usages on the Christian
+Church_, X, B; Anrich, _Das antike Mysterienwesen in seinem Einfluss auf
+das Christentum_, 1894, pp. 168 ff., especially 179 ff.
 
-<p><a name="note_39" id="note_39"></a><a href="#anc_39">39.</a> <i>Hom. in Num.</i>, xxv; <i>in Ps.</i> xxxvi, 3.</p>
+39. _Hom. in Num._, xxv; _in Ps._ xxxvi, 3.
 
-<p><a name="note_40" id="note_40"></a><a href="#anc_40">40.</a> <i>C. D.</i>, xx, 25; xxi, 13 (where Virgil’s verses given above are
-quoted), 26; <i>de octo Dulcitii Quaest.</i>, <i>Qu.</i> i, 13; <i>Enchiridion</i>,
-lxix.</p>
+40. _C. D._, xx, 25; xxi, 13 (where Virgil’s verses given above are
+quoted), 26; _de octo Dulcitii Quaest._, _Qu._ i, 13; _Enchiridion_,
+lxix.
 
-<p><a name="note_41" id="note_41"></a><a href="#anc_41">41.</a> St. Thomas, <i>Opera</i> (Venice, 1759), xii, p. 575, <i>Distinctio</i> xxi,
-<i>Quaes.</i> 1, <i>Sol.</i> 3; xiii, p. 347 ff., <i>Distinctio</i> xliv, <i>Quaes.</i> 3,
-<i>Art.</i> 4, <i>Quaestiunc.</i> 3; Bellarmino, <i>de Purgatorio</i>, II, x-xii.</p>
-
-<hr class="full" />
+41. St. Thomas, _Opera_ (Venice, 1759), xii, p. 575, _Distinctio_ xxi,
+_Quaes._ 1, _Sol._ 3; xiii, p. 347 ff., _Distinctio_ xliv, _Quaes._ 3,
+_Art._ 4, _Quaestiunc._ 3; Bellarmino, _de Purgatorio_, II, x-xii.
 
 
 
 
 
-
-
-<pre>
 
 
 
@@ -1260,7 +1145,7 @@ Early Roman Empire, by Clifford Herschel Moore
 
 *** END OF THIS PROJECT GUTENBERG EBOOK PAGAN IDEAS OF IMMORTALITY ***
 
-***** This file should be named 53829-h.htm or 53829-h.zip *****
+***** This file should be named 53829-0.txt or 53829-0.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/5/3/8/2/53829/
 
@@ -1621,9 +1506,3 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
-
-</pre>
-
-</body>
-</html>
